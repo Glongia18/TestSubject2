@@ -1,0 +1,42 @@
+.container {
+  height: 200px;
+  width: 480px;
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 1em;
+  font-size: 40px;
+}
+
+#title {
+  font-family: monospace;
+  color: cornflowerblue;
+  text-align: center;
+  font-size: 17px;
+}
+
+#name { 
+  font-family: monospace;
+  color: cornflowerblue;
+  font-size: 15px;
+  margin-top: 2em;
+}
+
+#phone_number { 
+  font-family: monospace;
+  color: cornflowerblue;
+  font-size: 15px;
+}
+
+#linkedin { 
+  font-family: monospace;
+  color: cornflowerblue;
+  text-align: right;
+  font-size: 15px;
+}
+
+#email { 
+  font-family: monospace;
+  color: cornflowerblue;
+  text-align: right;
+  font-size: 15px;
+}
